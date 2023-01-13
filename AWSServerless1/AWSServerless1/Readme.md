@@ -1,5 +1,5 @@
 # AWS Lambda Native AOT Serverless Project
-# Testing Git Changes with Matt
+# Testing Git Changes with Matt - Version 2
 
 This starter project consists of:
 * serverless.template - an AWS CloudFormation Serverless Application Model template file for declaring your Serverless functions and other AWS resources.
